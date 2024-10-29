@@ -85,3 +85,52 @@ button {
     margin-left: -290px;
 
 }
+
+.hero-photo {
+
+margin-top: -100px;
+margin-left: 800px;
+
+}
+
+.random { 
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 100px;
+    font-size: 32px;
+    font-weight: 900;
+    color: #1F2937;
+
+
+}
+
+.second-container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 50px;
+
+}
+
+.text {
+
+    width: 100px;
+    text-wrap: wrap;
+}
+
+img { 
+
+    border-style: dotted;
+    
+}
+
+.third-container {
+
+background-color: #E5E7EB;
+margin-bottom: 30px;
+
+}
