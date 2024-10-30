@@ -80,7 +80,7 @@ margin-left: 255px;
 margin-top: -50px;
 }
 
-button {
+.dafirst {
 
     margin-left: -290px;
 
@@ -132,5 +132,75 @@ img {
 
 background-color: #E5E7EB;
 margin-bottom: 30px;
+padding: 80px;
+
+}
+
+.inspiration {
+    
+width: 490px;
+text-wrap: wrap;
+margin-left: 200px;
+    color: #1F2937;
+font-size: 26px;
+font-family: light italic;
+
+}
+
+.author {
+
+    font-size: 18px;
+font-weight: bold;    
+margin-left: 600px;
+
+
+}
+
+.fourth-container {
+display: flex;
+justify-content: flex-start;
+flex-direction: column;
+background-color:rgb(33, 73, 250);
+color:beige;
+width: 1000px;
+height: 70px;
+padding: 25px;
+padding-top: -40px;
+padding-bottom: -50px;
+border-radius: 20px;
+margin-bottom: 20px;
+margin-left: 100px;
+}
+
+h2 {
+
+    margin-left: 50px;
+margin-top: 10px;
+}
+
+.desperado {
+
+    margin-left: 50px;
+    margin-top: -20px;
+
+}
+
+.dalast {
+
+    width: 70px;
+display: flex;
+margin-left: 800px;
+margin-top: -50px;
+}
+
+.footer {
+
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: #1F2937;
+color: white;
+padding: 25px;
+margin-top: 50px;
 
 }
